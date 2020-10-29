@@ -1,7 +1,7 @@
 package lesson1;
 
 public class Main {
-    public static void main(String[] args) {
+
       /*  // задание 2
         byte a = -127;
         short b = -2175;
