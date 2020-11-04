@@ -1,7 +1,7 @@
 package lesson3;
 
 public class Main {
-    public class XOGame {
+  /*  public class XOGame {
         static final int SIZE = 5;
         static final int DOTS_TO_WIN = 4;
 
@@ -182,5 +182,5 @@ public class Main {
             return false;
         }
     }
-
+*/
 }
